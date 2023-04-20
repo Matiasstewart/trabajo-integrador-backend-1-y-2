@@ -47,7 +47,7 @@ public class PacienteIntegracionTest {
     public void listarPacientesTest() throws Exception{
         cargadorDePaciente();
 
-        MvcResult result= mockMvc.perform(MockMvcRequestBuilders.get("/pacientes/todos").accept(
+        MvcResult result= mockMvc.perform(MockMvcRequestBuilders.get("/pacientes").accept(
                 MediaType.APPLICATION_JSON))
                 .andDo(MockMvcResultHandlers.print())
                 .andExpect(MockMvcResultMatchers.status().isOk())

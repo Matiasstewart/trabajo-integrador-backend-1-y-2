@@ -97,3 +97,38 @@
 [2023-04-18 18:24:49] [ INFO ] [OdontologoService:44] Se inicio el proceso de borrado de un Odontologo
 [2023-04-18 18:24:49] [ INFO ] [OdontologoService:44] Se inicio el proceso de borrado de un Odontologo
 [2023-04-18 18:24:49] [ INFO ] [OdontologoService:26] Se buscaron todos los odontologos
+[2023-04-20 17:09:15] [ INFO ] [OdontologoService:38] Se guardo un Odontologo
+[2023-04-20 17:09:15] [ INFO ] [OdontologoService:32] Se busco un odontologo por su ID
+[2023-04-20 17:09:15] [ INFO ] [OdontologoService:38] Se guardo un Odontologo
+[2023-04-20 17:09:16] [ INFO ] [OdontologoService:26] Se buscaron todos los odontologos
+[2023-04-20 17:09:16] [ INFO ] [OdontologoService:58] Se inicio la actualizacion de un Odontologo
+[2023-04-20 17:09:16] [ INFO ] [OdontologoService:44] Se inicio el proceso de borrado de un Odontologo
+[2023-04-20 17:09:16] [ INFO ] [OdontologoService:44] Se inicio el proceso de borrado de un Odontologo
+[2023-04-20 17:09:16] [ INFO ] [OdontologoService:26] Se buscaron todos los odontologos
+[2023-04-20 17:09:29] [ INFO ] [PacienteService:45] Se creo un paciente
+[2023-04-20 17:10:24] [ INFO ] [PacienteService:45] Se creo un paciente
+[2023-04-20 17:10:24] [ INFO ] [PacienteService:27] Se inicio la busqueda de todos los pacientes
+[2023-04-20 17:10:39] [ INFO ] [PacienteService:45] Se creo un paciente
+[2023-04-20 17:10:40] [ INFO ] [PacienteService:33] Se inicio la busqueda de un paciente por id
+[2023-04-20 17:10:40] [ INFO ] [PacienteService:45] Se creo un paciente
+[2023-04-20 17:10:40] [ INFO ] [PacienteService:27] Se inicio la busqueda de todos los pacientes
+[2023-04-20 17:10:40] [ INFO ] [PacienteService:51] Se actualizo un paciente
+[2023-04-20 17:10:40] [ INFO ] [PacienteService:68] Se inicio la eliminacion de un paciente
+[2023-04-20 17:10:40] [ INFO ] [PacienteService:68] Se inicio la eliminacion de un paciente
+[2023-04-20 17:10:40] [ INFO ] [PacienteService:27] Se inicio la busqueda de todos los pacientes
+[2023-04-20 17:10:51] [ INFO ] [OdontologoService:38] Se guardo un Odontologo
+[2023-04-20 17:10:51] [ INFO ] [PacienteService:45] Se creo un paciente
+[2023-04-20 17:10:51] [ INFO ] [TurnoService:43] Se inicio el guardado de un turno
+[2023-04-20 17:10:51] [ INFO ] [PacienteService:33] Se inicio la busqueda de un paciente por id
+[2023-04-20 17:10:51] [ INFO ] [OdontologoService:32] Se busco un odontologo por su ID
+[2023-04-20 17:10:51] [ INFO ] [TurnoService:98] Se inicio la busqueda de un turno por id
+[2023-04-20 17:10:51] [ INFO ] [OdontologoService:38] Se guardo un Odontologo
+[2023-04-20 17:10:51] [ INFO ] [PacienteService:45] Se creo un paciente
+[2023-04-20 17:10:51] [ INFO ] [TurnoService:43] Se inicio el guardado de un turno
+[2023-04-20 17:10:51] [ INFO ] [PacienteService:33] Se inicio la busqueda de un paciente por id
+[2023-04-20 17:10:51] [ INFO ] [OdontologoService:32] Se busco un odontologo por su ID
+[2023-04-20 17:10:51] [ INFO ] [TurnoService:110] Se inicio la busqueda de todos los turnos
+[2023-04-20 17:10:51] [ INFO ] [TurnoService:92] Se inicio la actualizacion de un turno
+[2023-04-20 17:10:51] [ INFO ] [TurnoService:76] Se inicio la eliminacion de un turno
+[2023-04-20 17:10:51] [ INFO ] [TurnoService:76] Se inicio la eliminacion de un turno
+[2023-04-20 17:10:51] [ INFO ] [TurnoService:110] Se inicio la busqueda de todos los turnos
